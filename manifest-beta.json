@@ -1,6 +1,6 @@
 {
-  "id": "remotely-save",
-  "name": "Remotely Save",
+  "id": "remotely-save-ext",
+  "name": "Remotely Save Ext",
   "version": "0.4.25",
   "minAppVersion": "0.13.21",
   "description": "Yet another unofficial plugin allowing users to synchronize notes between local device and the cloud service.",
